@@ -1,10 +1,13 @@
-# React-Native_Notesapp
+# React Native Notesapp
 ![alt text](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![alt text](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![alt text](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
 
 
 Project Akhir Semester 3 Mata Kuliah Pemrograman Perangkat Bergerak
+Bagus Muhammad Wijaksono
+IK2D
+3.34.21.3.06
 
 | Feature | Deskripsi |
 | --- | --- |
