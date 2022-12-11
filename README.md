@@ -1,11 +1,28 @@
-# Sample Snack app
+# React-Native_Notesapp
+![alt text](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![alt text](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Project Akhir Semester 3 Mata Kuliah Pemrograman Perangkat Bergerak
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+| Feature | Deskripsi |
+| --- | --- |
+| Login | User dapat membuat fitur login pada aplikasi note |
+| Logout | User dapat membuat fitur logout pada aplikasi note |
+| Tambah Baru | User dapat membuat fitur tambah baru pada aplikasi note |
+| Edit Catatan | User dapat membuat fitur daftar catatan pada aplikasi note |
+| Tambah Baru | User dapat membuat fitur tambah baru pada aplikasi note |
+| Delete Catatan | User dapat membuat fitur delete catatan pada aplikasi note |
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+## Screenshot 
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+| Login | Logout | Tambah Baru |
+|:---------------:|:----------------:|:------------------:|
+| <img width="300" alt="2 columns" src="https://user-images.githubusercontent.com/106671990/205037718-970d6309-c0f8-47cd-a935-0588893c30cc.png"> | <img width="300" alt="3 columns" src="https://user-images.githubusercontent.com/106671990/205037786-0c1f97a9-40e5-4e1d-a97f-0e54e72b54a2.png"> | <img width="300" alt="4 columns" src="https://user-images.githubusercontent.com/106671990/205037845-4efd8b06-f430-45b9-9703-bc491be26472.png"> |
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+
+
+| Edit Catatan | Delete Catatan | Screenshot 3 |
+|:---------------:|:----------------:|:------------------:|
+| <img width="300" alt="2 columns" src="https://user-images.githubusercontent.com/106671990/205037718-970d6309-c0f8-47cd-a935-0588893c30cc.png"> | <img width="300" alt="3 columns" src="https://user-images.githubusercontent.com/106671990/205037786-0c1f97a9-40e5-4e1d-a97f-0e54e72b54a2.png"> | <img width="300" alt="4 columns" src="https://user-images.githubusercontent.com/106671990/205037845-4efd8b06-f430-45b9-9703-bc491be26472.png"> |
+
+
