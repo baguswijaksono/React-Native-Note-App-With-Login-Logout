@@ -23,7 +23,7 @@ Project Akhir Semester 3 Mata Kuliah Pemrograman Perangkat Bergerak
 
 | Login | Logout | Tambah Baru |
 |:---------------:|:----------------:|:------------------:|
-| <img width="300" alt="2 columns" src="https://user-images.githubusercontent.com/106671990/205037718-970d6309-c0f8-47cd-a935-0588893c30cc.png"> | <img width="300" alt="3 columns" src="https://user-images.githubusercontent.com/106671990/206910088-07978f78-615b-43b2-9141-ef2a32df3454.gif"> | <img width="300" alt="4 columns" src="https://github.com/baguswijaksono/React-Native-Note-App-With-Login-Logout/issues/4"> |
+| <img width="300" alt="2 columns" src="https://user-images.githubusercontent.com/106671990/205037718-970d6309-c0f8-47cd-a935-0588893c30cc.png"> | <img width="300" alt="3 columns" src="https://user-images.githubusercontent.com/106671990/206910088-07978f78-615b-43b2-9141-ef2a32df3454.gif"> | <img width="300" alt="4 columns" src="https://user-images.githubusercontent.com/106671990/206910324-4eea94a8-6933-4604-a3dc-54c4f56ed98f.gif"> |
 
 
 
