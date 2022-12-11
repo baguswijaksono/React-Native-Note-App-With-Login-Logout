@@ -15,6 +15,10 @@ Project Akhir Semester 3 Mata Kuliah Pemrograman Perangkat Bergerak
 | Tambah Baru | User dapat membuat fitur tambah baru pada aplikasi note |
 | Delete Catatan | User dapat membuat fitur delete catatan pada aplikasi note |
 
+## Live Project
+
+  Selamat Pagi/Siang/Malam Pak, Berikut sudah saya sediakan live project nya pada snack.expo.dev supaya bapak tidak perlu repot. Klik [Disini](https://snack.expo.dev/@baguswijaksono/note-app-ppb)
+
 ## Screenshot 
 
 | Login | Logout | Tambah Baru |
