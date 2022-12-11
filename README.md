@@ -29,6 +29,6 @@ Project Akhir Semester 3 Mata Kuliah Pemrograman Perangkat Bergerak
 
 | Edit Catatan | Delete Catatan | Screenshot 3 |
 |:---------------:|:----------------:|:------------------:|
-| <img width="300" alt="2 columns" src="https://user-images.githubusercontent.com/106671990/205037718-970d6309-c0f8-47cd-a935-0588893c30cc.png"> | <img width="300" alt="3 columns" src="https://user-images.githubusercontent.com/106671990/205037786-0c1f97a9-40e5-4e1d-a97f-0e54e72b54a2.png"> | <img width="300" alt="4 columns" src="https://user-images.githubusercontent.com/106671990/205037845-4efd8b06-f430-45b9-9703-bc491be26472.png"> |
+| <img width="300" alt="2 columns" src="https://user-images.githubusercontent.com/106671990/205037718-970d6309-c0f8-47cd-a935-0588893c30cc.png"> | <img width="300" alt="3 columns" src="https://user-images.githubusercontent.com/106671990/206909941-45b77126-ed49-4400-9269-46f127570664.gif"> | <img width="300" alt="4 columns" src="https://user-images.githubusercontent.com/106671990/205037845-4efd8b06-f430-45b9-9703-bc491be26472.png"> |
 
 
