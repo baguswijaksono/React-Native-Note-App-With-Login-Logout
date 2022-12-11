@@ -10,7 +10,7 @@ Project Akhir Semester 3 Mata Kuliah Pemrograman Perangkat Bergerak
 | --- | --- |
 | Login | User dapat membuat fitur login pada aplikasi note |
 | Logout | User dapat membuat fitur logout pada aplikasi note |
-| Tambah Baru | User dapat membuat fitur tambah baru pada aplikasi note |
+| List | User dapat membuat fitur daftar catatan pada aplikasi note |
 | Edit Catatan | User dapat membuat fitur daftar catatan pada aplikasi note |
 | Tambah Baru | User dapat membuat fitur tambah baru pada aplikasi note |
 | Delete Catatan | User dapat membuat fitur delete catatan pada aplikasi note |
