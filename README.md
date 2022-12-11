@@ -4,7 +4,8 @@
 ![alt text](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
 
 
-Project Akhir Semester 3 Mata Kuliah Pemrograman Perangkat Bergerak
+Project Akhir Semester 3 Mata Kuliah Pemrograman Perangkat Bergerak 
+
 Bagus Muhammad Wijaksono
 IK2D
 3.34.21.3.06
